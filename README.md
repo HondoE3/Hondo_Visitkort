@@ -1,4 +1,4 @@
-#Hondos super seje total vilde script 
+# Hondos super seje total vilde script 
 
 # How to basic
 Smid dette lort ind i din shared/items.lua
